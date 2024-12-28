@@ -1,11 +1,11 @@
 {
-	"short_name": "short name",
-	"name": "name or title",
-	"lang": "en",
-	"description": "description",
+	"short_name": "Rita",
+	"name": "Rita",
+	"lang": "zh-CN",
+	"description": "Rita的个人网站",
 	"background_color": "#00aae7",
 	"theme_color": "#00aae7",
-	"dir": "ltr",
+	"dir": "auto",
 	"display": "standalone",
 	"orientation": "any",
 	"icons": [
@@ -74,6 +74,6 @@
 			"type": "image/png",
 			"sizes": "16x16"
 		}
-	],
-	"prefer_related_applications": false
+	]
+
 }
